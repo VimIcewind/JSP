@@ -1,0 +1,15 @@
+*.class
+eclipse
+nbproject
+.settings
+.project
+.classpath
+out
+target
+*/target
+.idea
+*.ipr
+*.imr
+*.iws
+*.iml
+*.ids
